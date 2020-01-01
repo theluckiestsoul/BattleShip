@@ -1,0 +1,8 @@
+D:\BattleShip\BattleShip\BattleShip.Entities\bin\Debug\netcoreapp3.1\BattleShip.Entities.deps.json
+D:\BattleShip\BattleShip\BattleShip.Entities\bin\Debug\netcoreapp3.1\BattleShip.Entities.dll
+D:\BattleShip\BattleShip\BattleShip.Entities\bin\Debug\netcoreapp3.1\BattleShip.Entities.pdb
+D:\BattleShip\BattleShip\BattleShip.Entities\obj\Debug\netcoreapp3.1\BattleShip.Entities.csprojAssemblyReference.cache
+D:\BattleShip\BattleShip\BattleShip.Entities\obj\Debug\netcoreapp3.1\BattleShip.Entities.AssemblyInfoInputs.cache
+D:\BattleShip\BattleShip\BattleShip.Entities\obj\Debug\netcoreapp3.1\BattleShip.Entities.AssemblyInfo.cs
+D:\BattleShip\BattleShip\BattleShip.Entities\obj\Debug\netcoreapp3.1\BattleShip.Entities.dll
+D:\BattleShip\BattleShip\BattleShip.Entities\obj\Debug\netcoreapp3.1\BattleShip.Entities.pdb

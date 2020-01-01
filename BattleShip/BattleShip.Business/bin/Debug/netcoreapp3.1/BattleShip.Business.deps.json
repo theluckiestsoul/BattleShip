@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BattleShip.Business/1.0.0": {
+        "dependencies": {
+          "BattleShip.Entities": "1.0.0",
+          "BattleShip.Utility": "1.0.0"
+        },
+        "runtime": {
+          "BattleShip.Business.dll": {}
+        }
+      },
+      "BattleShip.Entities/1.0.0": {
+        "runtime": {
+          "BattleShip.Entities.dll": {}
+        }
+      },
+      "BattleShip.Utility/1.0.0": {
+        "runtime": {
+          "BattleShip.Utility.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BattleShip.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BattleShip.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BattleShip.Utility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

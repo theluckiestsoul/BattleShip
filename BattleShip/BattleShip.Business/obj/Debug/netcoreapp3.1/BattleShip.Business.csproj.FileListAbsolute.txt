@@ -1,0 +1,13 @@
+D:\BattleShip\BattleShip\BattleShip.Business\bin\Debug\netcoreapp3.1\BattleShip.Business.deps.json
+D:\BattleShip\BattleShip\BattleShip.Business\bin\Debug\netcoreapp3.1\BattleShip.Business.dll
+D:\BattleShip\BattleShip\BattleShip.Business\bin\Debug\netcoreapp3.1\BattleShip.Business.pdb
+D:\BattleShip\BattleShip\BattleShip.Business\bin\Debug\netcoreapp3.1\BattleShip.Entities.dll
+D:\BattleShip\BattleShip\BattleShip.Business\bin\Debug\netcoreapp3.1\BattleShip.Utility.dll
+D:\BattleShip\BattleShip\BattleShip.Business\bin\Debug\netcoreapp3.1\BattleShip.Entities.pdb
+D:\BattleShip\BattleShip\BattleShip.Business\bin\Debug\netcoreapp3.1\BattleShip.Utility.pdb
+D:\BattleShip\BattleShip\BattleShip.Business\obj\Debug\netcoreapp3.1\BattleShip.Business.csprojAssemblyReference.cache
+D:\BattleShip\BattleShip\BattleShip.Business\obj\Debug\netcoreapp3.1\BattleShip.Business.AssemblyInfoInputs.cache
+D:\BattleShip\BattleShip\BattleShip.Business\obj\Debug\netcoreapp3.1\BattleShip.Business.AssemblyInfo.cs
+D:\BattleShip\BattleShip\BattleShip.Business\obj\Debug\netcoreapp3.1\BattleShip.Business.csproj.CopyComplete
+D:\BattleShip\BattleShip\BattleShip.Business\obj\Debug\netcoreapp3.1\BattleShip.Business.dll
+D:\BattleShip\BattleShip\BattleShip.Business\obj\Debug\netcoreapp3.1\BattleShip.Business.pdb
